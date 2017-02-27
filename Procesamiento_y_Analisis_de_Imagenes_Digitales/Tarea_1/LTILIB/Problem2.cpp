@@ -43,6 +43,7 @@ int main(int argc, const char* argv[]){
           view1.show(img);  
           getchar();
         }else{
+          cout << loader.getStatusString() << " status" << endl;
           cout << "The image "<<file <<" cannot be found." << endl;
           return -1;
         }
