@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/PC/Desktop/TEC/taller digital/ISEprogrmas/proyectoAscensor/arquitecturaMulticiclo/IR.xst" -ofn "C:/Users/PC/Desktop/TEC/taller digital/ISEprogrmas/proyectoAscensor/arquitecturaMulticiclo/IR.syr" 
