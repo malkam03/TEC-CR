@@ -1,7 +1,7 @@
 Malcolm's Path through ITCR's CE
 =====================
 ![malkam03](malkam03.png) ![Tec_Logo](tec.png)  
-This repository aims to log some of the data of the courses that I'll take for the Computer Engineer degree.
+This repository aims to log some of the data of some of the courses that I'll take for the Computer Engineer degree.
 
 ## Getting Started
 Since every course has his own branch on this repo, just pick the subject and in there you will find the getting started for that specific project/assignment.
