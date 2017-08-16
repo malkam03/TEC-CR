@@ -1,17 +1,16 @@
-Análisis Númerico para la Ingeniería
+Malcolm's Path through TEC-CR's CE
 =====================
 ![malkam03](malkam03.png) ![Tec_Logo](tec.png)  
-Course syllabus includes Spatial Domain Processing, Frequency Domain Processing, Color image Processing, Morphology and Image Analisis among others. The full course syllabus can be found in the [programa.pdf](programa.pdf) file.
+This repository aims to log some of the data of some of the courses that I'll take for the Computer Engineer degree.
+Every course is in his own directory if the state of the course is coursed. But if the course is still active, the data will be in one branch with the course name.
 
 ## Getting Started
-Most of the coursework are coding assignments, so every directory has his own README and probably makefile to compile and get things up an running. So just jump in and explore.  
-Also, in the slides directory, you can get the slides that the profesor hand out to us. 
+Since every course has his own branch or directory on this repo, just pick a subject and in there you will find the getting started for that specific project/assignment.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgments
-* [Miguel Taylor](https://github.com/mtlazul)
-* Pablo Alvarado
+## Acknowledgments 
 
 ## Disclaimer
 This repo is of my property and although there are other collaborators of the Costa Rica Institute of Technology, it don't act out as an official site of information for this institution neither states his opinion or his peers.
