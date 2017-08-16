@@ -1,0 +1,35 @@
+El programa en Python se encarga de tomar 100 imágenes con la cámara
+web de la computadora y guardarlas numerándolas de la 0.png a la 99.png.
+Estas imágenes son las que se utilizan en el proceso de calibración,
+aunque solamente 25 son necesarias. Las imágenes se toman cada 10
+frames de video, con el costo de computación, esto equivale a aproximadamente
+una imagen por segundo.
+
+El código de calibración de la cámara esta basado en el ejemplo de
+OpenCV, este código recibe de entrada un XML de configuración que
+contiene las dimensiones del tablero y el amanto de cada casilla.
+En este caso se utilizo un tablero de 9 x 6 y tamaño del cuadro 25
+mm. Ademas de lo anterior, en el XML de configuración se especifica
+la fuente de las imágenes para hacer la calibración; en este proyecto
+se utilizaron imágenes generadas anteriormente con un script de Python,
+por lo que hay que especificar en un XML separado el nombre de todas
+las imágenes utilizadas.
+
+La función \textquotedblleft findChessboardCorners\textquotedblright{}
+encuentra los cruces del tablero en la imagen y retorna una matriz
+de los puntos de imagen. Esta matriz posteriormente se le pasa como
+parámetro a calibrateCamera para encontrar la matriz de parámetros
+de la cámara.
+
+La función \textquotedblleft calibrateCamera\textquotedblright{} es
+la que se encarga de refinar los parámetros intrínsecos y extrínsecos
+de la cámara, con la ayuda del patrón de calibración. Esta función
+trata de minimizar el error de proyección y al final retorna dicho
+valor. El error obtenido durante las pruebas de la calibración esta
+alrededor de los 2mm
+
+Al finalizar la ejecución se guardan los resultados en un XML con
+la función \textquotedblleft saveCameraParams\textquotedblright ,
+el cual es la entrada de la siguiente etapa del proyecto. Ademas,
+la aplicación muestra las imágenes de entrada sin distorsión para
+poder apreciar si el efecto es el esperado.
