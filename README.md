@@ -1,4 +1,4 @@
-Malcolm's Path through ITCR's CE
+Malcolm's Path through TEC-CR's CE
 =====================
 ![malkam03](malkam03.png) ![Tec_Logo](tec.png)  
 This repository aims to log some of the data of some of the courses that I'll take for the Computer Engineer degree.
