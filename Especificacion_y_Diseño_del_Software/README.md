@@ -10,6 +10,10 @@ There are 4 directories, one for the slides that the professor hand us out, and 
 This project is licensed under the MIT License - see the [LICENSE.md](../LICENSE.md) file for details.
 
 ## Acknowledgments
+* [Arturo Chinchilla](https://github.com/Arturok)
+* [Santiago Gamboa](https://github.com/santigr17)
+* [Juan Navarro](https://github.com/junavarro)
+* [Fabián Solano](https://github.com/fab2903)
 * Daniel Madriz
 
 
