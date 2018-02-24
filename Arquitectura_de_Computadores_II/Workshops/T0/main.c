@@ -107,7 +107,7 @@ void* generateCharArray(void * args){
 	while(!threadArgs->stop){
 		pthread_mutex_lock( &threadArgs->mutex );
 		threadArgs->array[threadArgs->pos++] = (char)(rand()%255);
-		printf("***The number %d was generated on thread %d.****\n", threadArgs->array[threadArgs->pos-1], threadArgs->threadID);
+		printf("***The character %c was generated on thread %d.****\n", threadArgs->array[threadArgs->pos-1], threadArgs->threadID);
 		if(threadArgs->pos >= threadArgs->maxSize) {
 			threadArgs->pos = 0;
 			printf("Array on thread %d flushed.\n", threadArgs->threadID);
@@ -128,7 +128,7 @@ void* printCharArray(void * args){
 		pthread_mutex_lock( &threadArgs->mutex );
 		printf("Array [");
 		for(int i =0; i<threadArgs->pos; i++)
-			printf(" %d ", threadArgs->array[i]^0x20);
+			printf(" %c ", threadArgs->array[i]^0x20);
 		printf("] on thread %d.\n", threadArgs->threadID+1);
 		pthread_mutex_unlock( &threadArgs->mutex );
 		usleep(threadArgs->printingTime);
