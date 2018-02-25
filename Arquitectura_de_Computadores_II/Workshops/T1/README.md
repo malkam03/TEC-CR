@@ -17,17 +17,35 @@ sudo apt install python3-tk
 ```
 ## Running
 
-To compile the program just type make on a terminal:
+To compile the programs just type make on a terminal to build them all:
 ```
 make
 ```
+Or if you want to compile just one of the programs type:
+```
+make target
+```
+The targets can be:
+* **pi_ser:** Pi aproximation Serial
+* **pi_par:** Pi aproximation Parallel
+* **saxpy_ser:** SAXPY function Serial
+* **saxpy_par:** SAXPY function Parallel
+* **matMul_ser:** Matrix Multiplication function Serial
+* **matMul_par:** Matrix Multiplication function Parallel
+
+After building the files you can plot test data with one of the plot scripts:
+```
+./piPlotScript.sh
+./saxpyPlotScript.sh
+```
+
 To run it with the default values type on a terminal:
 ```
-./run 
+./target 
 ```
 The program accepts command line options to configure some variables:
 ```
-./run <runing time from 1 to 10> <max array size from 1 to 100> <sampling time> <printing samples time> <number of threads even number>
+./target 
 ```
 For simplicity the program will accept just n positional arguments.
 ## Author
