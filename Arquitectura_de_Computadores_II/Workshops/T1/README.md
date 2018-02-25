@@ -11,7 +11,7 @@ sudo apt update
 sudo apt install gcc
 ```
 ***Python TK***    
-If you wish to use the script to plot serial data... You must have python Tk installed, you can install it with:
+If you wish to use the script to plot serial data then you must have python Tk installed, you can install it with:
 ```
 sudo apt install python3-tk
 ```
@@ -37,6 +37,7 @@ After building the files you can plot test data with one of the plot scripts:
 ```
 ./piPlotScript.sh
 ./saxpyPlotScript.sh
+./matMulPlotScript.sh
 ```
 
 To run it with the default values type on a terminal:
@@ -45,12 +46,13 @@ To run it with the default values type on a terminal:
 ```
 The program accepts command line options to configure some variables:
 ```
-./target 
+./target size 
 ```
+The size in almost all the targets is one positive integer that represent the steps for pi, the size of the vectors for the saxpy. But the matrix multiplication program will accept 4 sizes representing the mxn sizes of matrix A and B. **The sizes of the matrixes have to be compatible with the multiplication formula.**
 For simplicity the program will accept just n positional arguments.
 ## Author
 * **Malcolm Davis** - *Initial work* 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](../../../LICENSE.md)
+This project is licensed under the MIT License - see the [LICENSE.md](../../../LICENSE.md).
