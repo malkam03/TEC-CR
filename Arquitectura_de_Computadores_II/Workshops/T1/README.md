@@ -2,7 +2,7 @@
 Second assignment of the course CE-4302 "Arquitectura de Computadores II", first semester 2018. Aims to exemplify the use of pthreads.
 
 ## Prerequisites
-The assignment can be download and compiled for both Windows and GNU/Linux distros, but I will focus on getting things up and running for the latter.     
+The assignment can be downloaded and compiled for both Windows and GNU/Linux distros, but I will focus on getting things up and running for the latter.     
 ***GCC compiler***    
 It can be installed via the package manager.   
 For example for debian based distros you can use apt:
