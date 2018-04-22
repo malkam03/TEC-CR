@@ -1,11 +1,10 @@
 # Declaration of variables
 CC = gcc
-CC_FLAGS = -lm -fopenmp -w
+CC_FLAGS = -lm -fopenmp -w -msse4
 
 # Main Target
 all: hello max matMult
 
-# PI approximation serial
 hello: hello_simd.o
 	$(CC) hello_simd.c  $(CC_FLAGS) -o hello
 
