@@ -1,29 +1,21 @@
 # Declaration of variables
 CC = gcc
-CC_FLAGS =
+CC_FLAGS = -lm -fopenmp -w
 
 # Main Target
-all: hello max
+all: hello max matMult
 
 # PI approximation serial
 hello: hello_simd.o
-	$(CC) hello_simd.c  $(CC_FLAGS) -o hello_SSE
+	$(CC) hello_simd.c  $(CC_FLAGS) -o hello
 
 max: max_SSE.o
-	$(CC) max_SSE.c  $(CC_FLAGS) -o pi_par
+	$(CC) max_SSE.c  $(CC_FLAGS) -o max
 
-saxpy_ser: saxpy.o
-	$(CC) saxpy.c  $(CC_FLAGS) -o saxpy_ser
+matMult: matMult_SSE.o
+	$(CC) matMult_SSE.c  $(CC_FLAGS) -o matMult
 
-saxpy_par: saxpy.o
-	$(CC) saxpy.c -DPARALLEL  $(CC_FLAGS) -o saxpy_par
-
-matmul_ser: matMul.o
-	$(CC) matMul.c  $(CC_FLAGS) -o matmul_ser
-
-matmul_par: matMul.o
-	$(CC) matMul.c -DPARALLEL  $(CC_FLAGS) -o matmul_par
  
 # To remove generated files
 clean:
-	rm -f pi_ser pi_par saxpy_ser saxpy_par matmul_ser matmul_par *.o 
+	rm -f hello max matMult
