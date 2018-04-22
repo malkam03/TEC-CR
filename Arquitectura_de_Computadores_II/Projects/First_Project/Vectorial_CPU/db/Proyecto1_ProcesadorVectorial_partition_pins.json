@@ -1,0 +1,149 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "prueba[0]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[1]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[2]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[3]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[4]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[5]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[6]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[7]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[8]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[9]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[10]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[11]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[12]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[13]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[14]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[15]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[16]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[17]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[18]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[19]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[20]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[21]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[22]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[23]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[24]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[25]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[26]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[27]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[28]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[29]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[30]",
+					"strict" : false
+				},
+				{
+					"name" : "prueba[31]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "clk_f",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

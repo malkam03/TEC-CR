@@ -1,0 +1,72 @@
+# do Proyecto1_ProcesadorVectorial.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:48:59 on Apr 18,2018
+# vlog -work work Proyecto1_ProcesadorVectorial.vo 
+# -- Compiling module Proyecto1_ProcesadorVectorial
+# 
+# Top level modules:
+# 	Proyecto1_ProcesadorVectorial
+# End time: 20:49:02 on Apr 18,2018, Elapsed time: 0:00:03
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:49:02 on Apr 18,2018
+# vlog -work work Waveform2.vwf.vt 
+# -- Compiling module Proyecto1_ProcesadorVectorial_vlg_vec_tst
+# 
+# Top level modules:
+# 	Proyecto1_ProcesadorVectorial_vlg_vec_tst
+# End time: 20:49:03 on Apr 18,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim -novopt -c -t 1ps -L cyclonev_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver work.Proyecto1_ProcesadorVectorial_vlg_vec_tst 
+# Start time: 20:49:05 on Apr 18,2018
+# Loading work.Proyecto1_ProcesadorVectorial_vlg_vec_tst
+# Loading work.Proyecto1_ProcesadorVectorial
+# Loading sv_std.std
+# Loading altera_lnsim_ver.generic_m10k
+# Loading altera_lnsim_ver.altera_lnsim_functions
+# Loading altera_lnsim_ver.common_28nm_ram_block
+# Loading altera_lnsim_ver.common_28nm_ram_register
+# Loading altera_lnsim_ver.common_28nm_ram_pulse_generator
+# Loading altera_ver.dffeas
+# Loading altera_ver.PRIM_GDFF_LOW
+# ** Warning: Design size of 27871 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# after#25
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 3000001 ps
+# Simulation time: 3000001 ps
+# Simulation time: 3000001 ps
+# Simulation time: 3000001 ps
+# Simulation time: 3000001 ps
+# Simulation time: 3000001 ps
+# Simulation time: 3000001 ps
+# Simulation time: 3000001 ps
+# Simulation time: 6225001 ps
+# ** Note: $finish    : Waveform2.vwf.vt(49)
+#    Time: 7 us  Iteration: 0  Instance: /Proyecto1_ProcesadorVectorial_vlg_vec_tst
+# End time: 20:50:36 on Apr 18,2018, Elapsed time: 0:01:31
+# Errors: 0, Warnings: 1

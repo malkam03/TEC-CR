@@ -1,0 +1,52 @@
+`timescale 1ns / 1ps
+//////////////////////////////////////////////////////////////////////////////////
+// Company: 
+// Engineer: 
+// 
+// Create Date:    23:41:41 10/04/2017 
+// Design Name: 
+// Module Name:    MEMWBreg 
+// Project Name: 
+// Target Devices: 
+// Tool versions: 
+// Description: 
+//
+// Dependencies: 
+//
+// Revision: 
+// Revision 0.01 - File Created
+// Additional Comments: 
+//
+//////////////////////////////////////////////////////////////////////////////////
+module MEMWBreg(
+    input clk,
+    input rst,
+    input [15:0] memory_data,
+    input [15:0] alu_data,
+    input [3:0] dir_write,
+    input [1:0] flagsWB,
+    output [15:0] memory_data_out,
+    output [15:0] alu_data_out,
+    output [3:0] dir_write_out,
+    output [1:0] flagsWB_out
+    );
+	 
+	 
+	 reg [15:0] memory_data_out_reg, alu_data_out_reg;
+	 reg [3:0] dir_write_out_reg;
+	 reg [1:0] flagsWB_out_reg;
+	 
+	 always @ (negedge clk) begin	
+		memory_data_out_reg = memory_data;
+		alu_data_out_reg = alu_data;
+		dir_write_out_reg = dir_write;
+		flagsWB_out_reg = flagsWB;
+	 end
+	 
+	 assign memory_data_out = memory_data_out_reg;
+	 assign alu_data_out = alu_data_out_reg;
+	 assign dir_write_out = dir_write_out_reg;
+	 assign flagsWB_out = flagsWB_out_reg;
+
+
+endmodule

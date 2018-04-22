@@ -1,0 +1,5 @@
+module Testbench_proyecto(
+	input clk,
+	input rst,
+	output [31:0] pc
+);

@@ -1,0 +1,149 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'procesador:cpu|IDEXreg:idreg|flagsALU_reg[0]'
+Slack : -9.117
+TNS   : -272.342
+
+Type  : Slow 1100mV 85C Model Setup 'clk'
+Slack : -7.058
+TNS   : -28050.760
+
+Type  : Slow 1100mV 85C Model Setup 'clk_f'
+Slack : -1.787
+TNS   : -70.654
+
+Type  : Slow 1100mV 85C Model Hold 'clk'
+Slack : -0.968
+TNS   : -22.329
+
+Type  : Slow 1100mV 85C Model Hold 'clk_f'
+Slack : 0.409
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'procesador:cpu|IDEXreg:idreg|flagsALU_reg[0]'
+Slack : 0.985
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -2.174
+TNS   : -26380.397
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk_f'
+Slack : -2.174
+TNS   : -185.888
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'procesador:cpu|IDEXreg:idreg|flagsALU_reg[0]'
+Slack : 0.244
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'procesador:cpu|IDEXreg:idreg|flagsALU_reg[0]'
+Slack : -9.385
+TNS   : -279.011
+
+Type  : Slow 1100mV 0C Model Setup 'clk'
+Slack : -6.807
+TNS   : -26198.253
+
+Type  : Slow 1100mV 0C Model Setup 'clk_f'
+Slack : -1.653
+TNS   : -64.882
+
+Type  : Slow 1100mV 0C Model Hold 'clk'
+Slack : -1.120
+TNS   : -28.107
+
+Type  : Slow 1100mV 0C Model Hold 'clk_f'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'procesador:cpu|IDEXreg:idreg|flagsALU_reg[0]'
+Slack : 1.121
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -2.174
+TNS   : -26185.943
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk_f'
+Slack : -2.174
+TNS   : -185.465
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'procesador:cpu|IDEXreg:idreg|flagsALU_reg[0]'
+Slack : 0.241
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'procesador:cpu|IDEXreg:idreg|flagsALU_reg[0]'
+Slack : -5.299
+TNS   : -154.615
+
+Type  : Fast 1100mV 85C Model Setup 'clk'
+Slack : -3.846
+TNS   : -19810.961
+
+Type  : Fast 1100mV 85C Model Setup 'clk_f'
+Slack : -1.409
+TNS   : -55.562
+
+Type  : Fast 1100mV 85C Model Hold 'clk'
+Slack : -0.741
+TNS   : -18.915
+
+Type  : Fast 1100mV 85C Model Hold 'procesador:cpu|IDEXreg:idreg|flagsALU_reg[0]'
+Slack : 0.395
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clk_f'
+Slack : 0.852
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -2.174
+TNS   : -26423.559
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk_f'
+Slack : -2.174
+TNS   : -189.179
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'procesador:cpu|IDEXreg:idreg|flagsALU_reg[0]'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'procesador:cpu|IDEXreg:idreg|flagsALU_reg[0]'
+Slack : -4.934
+TNS   : -145.232
+
+Type  : Fast 1100mV 0C Model Setup 'clk'
+Slack : -3.346
+TNS   : -17772.281
+
+Type  : Fast 1100mV 0C Model Setup 'clk_f'
+Slack : -1.317
+TNS   : -53.078
+
+Type  : Fast 1100mV 0C Model Hold 'clk'
+Slack : -0.951
+TNS   : -25.416
+
+Type  : Fast 1100mV 0C Model Hold 'procesador:cpu|IDEXreg:idreg|flagsALU_reg[0]'
+Slack : 0.461
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clk_f'
+Slack : 0.853
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -2.174
+TNS   : -27012.109
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk_f'
+Slack : -2.174
+TNS   : -192.467
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'procesador:cpu|IDEXreg:idreg|flagsALU_reg[0]'
+Slack : 0.326
+TNS   : 0.000
+
+------------------------------------------------------------

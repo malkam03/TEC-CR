@@ -1,0 +1,72 @@
+`timescale 1ns / 1ps
+//////////////////////////////////////////////////////////////////////////////////
+// Company: 
+// Engineer: 
+// 
+// Create Date:    18:01:27 10/04/2017 
+// Design Name: 
+// Module Name:    IDEXreg 
+// Project Name: 
+// Target Devices: 
+// Tool versions: 
+// Description: 
+//
+// Dependencies: 
+//
+// Revision: 
+// Revision 0.01 - File Created
+// Additional Comments: 
+//
+//////////////////////////////////////////////////////////////////////////////////
+module IDEXreg(
+    input clk,
+    input rst,
+    input [31:0] dataOne,
+    input [31:0] dataTwo,
+	 input [31:0] immediate,
+    input [3:0] flagsALU,
+    input [2:0] flagsMEM,
+    input [1:0] flagsWB,
+	 input [47:0] pc1,
+	 input [4:0] rd_dir,
+    output [31:0] dataOne_out,
+    output [31:0] dataTwo_out,
+	 output [31:0] immediate_out,
+	 output [3:0] flagsALU_out,
+    output [2:0] flagsMEM_out,
+    output [1:0] flagsWB_out,
+    output [47:0] pc1_out,
+	 output [4:0] rd_out
+    );
+	 
+	 reg [47:0] pc1_reg;
+	 reg [31:0] dataOne_reg, dataTwo_reg, immediate_reg;
+	 reg [4:0] rd_dir_reg;
+	 reg [3:0] flagsALU_reg;
+	 reg [2:0] flagsMEM_reg;
+	 reg [1:0] flagsWB_reg;
+	 
+	 
+	 always @ (negedge clk) begin	
+		dataOne_reg = dataOne;
+		dataTwo_reg = dataTwo;
+		immediate_reg = immediate;
+		extSign_reg = extSign;
+		pc1_reg = pc1;
+		flagsALU_reg = flagsALU;
+		flagsMEM_reg = flagsMEM;
+		flagsWB_reg = flagsWB;
+		rd_dir_reg = rd_dir;
+		extSign_reg = extSign;
+	 end
+	 
+	 assign dataOne_out   = dataOne_reg;
+	 assign dataTwo_out   = dataTwo_reg;
+	 assign immediate_out = immediate_reg;
+	 assign flagsALU_out  = flagsALU_reg;
+	 assign flagsMEM_out  = flagsMEM_reg;
+	 assign flagsWB_out   = flagsWB_reg;
+	 assign pc1_out       = pc1_reg;
+	 assign rd_out 		 = rd_dir_reg;
+
+endmodule

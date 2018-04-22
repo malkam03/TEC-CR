@@ -1,0 +1,20 @@
+Fitter Status : Successful - Wed Apr 11 09:48:32 2018
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : Proyecto1_ProcesadorVectorial
+Top-level Entity Name : Proyecto1_ProcesadorVectorial
+Family : Cyclone V
+Device : 5CSEMA5F31C6
+Timing Models : Final
+Logic utilization (in ALMs) : 1,341 / 32,070 ( 4 % )
+Total registers : 1672
+Total pins : 35 / 457 ( 8 % )
+Total virtual pins : 0
+Total block memory bits : 2,146,304 / 4,065,280 ( 53 % )
+Total RAM Blocks : 261 / 397 ( 66 % )
+Total DSP Blocks : 0 / 87 ( 0 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0 / 6 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )

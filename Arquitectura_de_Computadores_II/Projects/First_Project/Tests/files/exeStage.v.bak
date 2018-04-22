@@ -1,0 +1,18 @@
+module IDEXEreg(
+	input clk,
+	input [47:0] pc1,
+	input [3:0] flagsALU,
+	input [2:0] flagsMEM,
+	input [1:0] flagsWB,
+	input [5:0] opcode,
+	input [31:0] dataOne,
+	input [31:0] dataTwo,
+	input [31:0] immediate,
+	input [4:0] rd,
+	output [47:0] pc1_out,
+	output [2:0] flagsMEM_out,
+	output [1:0] flagsWB_out,
+	output [5:0] opcode_out,
+);
+
+endmodule

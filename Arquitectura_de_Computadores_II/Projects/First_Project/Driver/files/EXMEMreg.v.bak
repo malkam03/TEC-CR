@@ -1,0 +1,68 @@
+`timescale 1ns / 1ps
+//////////////////////////////////////////////////////////////////////////////////
+// Company: 
+// Engineer: 
+// 
+// Create Date:    22:44:59 10/04/2017 
+// Design Name: 
+// Module Name:    EXMEMreg 
+// Project Name: 
+// Target Devices: 
+// Tool versions: 
+// Description: 
+//
+// Dependencies: 
+//
+// Revision: 
+// Revision 0.01 - File Created
+// Additional Comments: 
+//
+//////////////////////////////////////////////////////////////////////////////////
+module EXMEMreg(
+    input clk,
+    input rst,
+    input [15:0] branchAddress,
+    input zero_flag,
+    input [3:0] alu_op,
+    input [15:0] result_alu,
+	 input [2:0] flagsMEM,
+	 input [1:0] flagsWB,
+	 input [3:0] rd,
+    output [15:0] dir_branchAddress,
+    output sel_pc,
+    output [15:0] data_Instruction,
+    output [15:0] direction_Instruction,
+    //output [3:0] dir_destiny_out,
+	 output [2:0] flagsMEM_out,
+	 output [1:0] flagsWB_out,
+	 output [3:0] rd_out
+    );
+	 
+	 reg [15:0] data_Instruction_reg, direction_Instruction_reg;
+	 reg [15:0] dir_branchAddress_reg;
+	 reg [3:0] dir_destiny_out_reg;
+	 reg [2:0] flagsMEM_out_reg;
+	 reg [1:0] flagsWB_out_reg;
+	 reg sel_pc_reg;
+	
+	 always @ (negedge clk) begin	
+		dir_branchAddress_reg = branchAddress;
+		data_Instruction_reg = result_alu;
+		direction_Instruction_reg = result_alu;
+		dir_destiny_out_reg = rd;
+		flagsMEM_out_reg = flagsMEM;
+		flagsWB_out_reg = flagsWB;
+		if((zero_flag && flagsMEM[2])||(~zero_flag && flagsMEM[1])) sel_pc_reg = 1; 
+		else sel_pc_reg = 0;
+		
+	 end 
+	 
+	 assign dir_branchAddress = dir_branchAddress_reg;
+	 assign sel_pc = sel_pc_reg;
+	 assign data_Instruction = data_Instruction_reg;
+	 assign direction_Instruction = direction_Instruction_reg;
+	 assign rd_out = dir_destiny_out_reg;
+	 assign flagsWB_out = flagsWB_out_reg;
+	 assign flagsMEM_out = flagsMEM_out_reg;
+
+endmodule

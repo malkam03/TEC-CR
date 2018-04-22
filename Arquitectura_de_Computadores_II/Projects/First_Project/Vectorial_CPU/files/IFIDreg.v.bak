@@ -1,0 +1,161 @@
+`timescale 1ns / 1ps
+//////////////////////////////////////////////////////////////////////////////////
+// Company: 
+// Engineer: 
+// 
+// Create Date:    10:36:35 10/04/2017 
+// Design Name: 
+// Module Name:    IF-IDreg 
+// Project Name: 
+// Target Devices: 
+// Tool versions: 
+// Description: 
+//
+// Dependencies: 
+//
+// Revision: 
+// Revision 0.01 - File Created
+// Additional Comments: 
+//
+//////////////////////////////////////////////////////////////////////////////////
+module IFIDreg(
+    input clk,
+    input [47:0] instruction,
+	 input [47:0] pc1,
+    output [5:0] opcode,
+    output [4:0] rd,
+    output [4:0] rs,
+    output [31:0] immediate,
+	 output flagsDECO,
+    output [3:0] flagsALU,
+    output [2:0] flagsMEM,
+    output [1:0] flagsWB,
+	 output [47:0] pc1_out
+    );
+	
+	//FlagsDECO read_reg x
+	//FlagsALU main_ALU x opALU xxx
+	//FlagsMEM zero_ALU x, memRD x, memWR x
+	//FlagsWB write_on_reg x, sel_dat x
+	
+	reg [47:0] pc1_out_reg;
+	reg [31:0] immediate_reg;
+	reg [5:0] opcode_reg;
+	reg [3:0] flagsALU_reg, rs_reg, rd_reg;
+	reg [2:0] flagsMEM_reg;
+	reg [1:0] flagsWB_reg;
+	reg flagsDECO_reg;
+	
+	always @ (negedge clk) begin	
+		case(instruction[47:42])
+			6'h10: begin //XOR
+						flagsDECO_reg = 1'b1; 
+						flagsALU_reg = 4'd3;
+						flagsMEM_reg = 3'b000;
+						flagsWB_reg = 2'b11;
+					end
+			6'h11: begin //SRL
+						flagsDECO_reg = 1'b1; 
+						flagsALU_reg = 4'd4;
+						flagsMEM_reg = 3'b000;
+						flagsWB_reg = 2'b11;
+					end
+			6'h12: begin //SLL
+						flagsDECO_reg = 1'b1; 
+						flagsALU_reg = 4'd5;
+						flagsMEM_reg = 3'b000;
+						flagsWB_reg = 2'b11;
+					end
+			6'h13: begin //SRC
+						flagsDECO_reg = 1'b1; 
+						flagsALU_reg = 4'd6;
+						flagsMEM_reg = 3'b000;
+						flagsWB_reg = 2'b11;
+					end
+			6'h14: begin //SLC
+						flagsDECO_reg = 1'b1; 
+						flagsALU_reg = 4'd7;
+						flagsMEM_reg = 3'b000;
+						flagsWB_reg = 2'b11;
+					end
+			6'h15: begin //ADDIV
+						flagsDECO_reg = 1'b1; 
+						flagsALU_reg = 4'd1;
+						flagsMEM_reg = 3'b000;
+						flagsWB_reg = 2'b11;
+					end
+			6'h16: begin //SUBIV
+						flagsDECO_reg = 1'b1; 
+						flagsALU_reg = 4'd2;
+						flagsMEM_reg = 3'b000;
+						flagsWB_reg = 2'b11;
+					end
+			6'h20: begin //J
+						flagsDECO_reg = 1'b0; 
+						flagsALU_reg = 4'd8;
+						flagsMEM_reg = 3'b000;
+						flagsWB_reg = 2'b01;
+					end
+			6'h21: begin //NOP
+						flagsDECO_reg = 1'b0;
+						flagsALU_reg = 4'h0;
+						flagsMEM_reg = 3'b000;
+						flagsWB_reg = 2'b01;
+					end
+			6'h22: begin //BNE
+						flagsDECO_reg = 1'b1;
+						flagsALU_reg = 4'h0;
+						flagsMEM_reg = 3'b000;
+						flagsWB_reg = 2'b01;
+					end
+			6'h23: begin //BEQ
+						flagsDECO_reg = 1'b1;
+						flagsALU_reg = 4'h0;
+						flagsMEM_reg = 3'b000;
+						flagsWB_reg = 2'b01;
+					end
+			6'h24: begin //LV
+						flagsDECO_reg = 1'b1;
+						flagsALU_reg = 4'h8;
+						flagsMEM_reg = 3'b010;
+						flagsWB_reg = 2'b10;
+					end
+			6'h25: begin //SV
+						flagsDECO_reg = 1'b1;
+						flagsALU_reg = 4'h8;
+						flagsMEM_reg = 3'b001;
+						flagsWB_reg = 2'b01;
+					end
+			6'h26: begin //ADDI
+						flagsDECO_reg = 1'b1;
+						flagsALU_reg = 4'h8;
+						flagsMEM_reg = 3'b000;
+						flagsWB_reg = 2'b11;
+					end
+			default: begin
+							flagsDECO_reg = 1'b0;
+							flagsALU_reg = 4'h0;
+							flagsMEM_reg = 3'b000;
+							flagsWB_reg = 2'b01;
+						end
+		endcase
+		
+		opcode_reg = instruction[47:42];
+		rd_reg = instruction[41:37];
+		rs_reg = instruction[36:32];
+		immediate_reg = instruction[31:0];
+
+		pc1_out_reg = pc1;
+	end
+	
+	assign pc1_out = pc1_out_reg;
+	assign opcode = opcode_reg;
+	assign rs = rs_reg;
+	assign rd = rd_reg;
+	assign immediate = immediate_reg;
+	assign flagsDECO = flagsDECO_reg;
+	assign flagsALU = flagsALU_reg;
+	assign flagsMEM = flagsMEM_reg;
+	assign flagsWB = flagsWB_reg;
+
+endmodule
