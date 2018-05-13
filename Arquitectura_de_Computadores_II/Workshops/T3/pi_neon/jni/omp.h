@@ -125,4 +125,3 @@ extern int omp_is_initial_device (void) __GOMP_NOTHROW;
 #endif
 
 #endif /* _OMP_H */
-
