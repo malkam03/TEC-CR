@@ -1,5 +1,5 @@
 # Workshop 1
-Second assignment of the course CE-4302 "Arquitectura de Computadores II", first semester 2018. Aims to exemplify the use of pthreads.
+Second assignment of the course CE-4302 "Arquitectura de Computadores II", first semester 2018. Aims to exemplify the use of OpenMP.
 
 ## Prerequisites
 The assignment can be downloaded and compiled for both Windows and GNU/Linux distros, but I will focus on getting things up and running for the latter.     

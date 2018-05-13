@@ -3,11 +3,11 @@
  * Author: Malcolm Davis
  * Course: Computer Architecture II
  * Created on Feb 24, 2018
- * Simple SAXPY(Single-precision Alpha*X Plus Y) operation with OpenMP
+ * Simple matrix multiplication with OpenMP
  *
  * Ussage: 
  * ./argv[0] for default parameters and random vectors or;
- * ./argv[0] <runing time from 1 to 10> <max array size from 1 to 100> <sampling time> <printing samples time> <number of threads even number>
+ * ./argv[0] <m matrix 1 size> <n matrix 1 size> <m matrix 2 size> <n matrix 2 size> 
  */
 
 #include <stdio.h> 
@@ -94,11 +94,10 @@ int main(int argc, char const *argv[])
 
 
 /*
- * matMult Function Y = aX + Y
- * @param size the lenght of the vectors
- * @param alpha the const to scale the vector X
- * @param X a vector of floats
- * @param Y a vector of floats
+ * matMult Function C = A*B
+ * @param C the return matrix
+ * @param A a matrix of double
+ * @param B a matrix of double
  */
 void matMult(struct doubleMatrix* A, struct doubleMatrix* B, struct doubleMatrix* C){
 	long i, j, k;

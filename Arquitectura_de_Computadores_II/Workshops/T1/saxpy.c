@@ -7,7 +7,7 @@
  *
  * Ussage: 
  * ./argv[0] for default parameters and random vectors or;
- * ./argv[0] <runing time from 1 to 10> <max array size from 1 to 100> <sampling time> <printing samples time> <number of threads even number>
+ * ./argv[0] <array size>
  */
 
 #include <stdio.h> 
