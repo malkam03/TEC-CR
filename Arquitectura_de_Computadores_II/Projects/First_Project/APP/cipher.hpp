@@ -1,5 +1,5 @@
 /* 
- * File:   cipher.cpp
+ * File:   cipher.hpp
  * Author: Malcolm Davis
  * Course: Computer Architecture II
  * Created on Mar 3, 2018
