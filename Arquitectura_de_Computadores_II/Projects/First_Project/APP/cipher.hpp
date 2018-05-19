@@ -27,6 +27,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <cctype>
+#include <string>
 
 //Constant definitions
 #define XOR 0
