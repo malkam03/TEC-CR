@@ -18,7 +18,7 @@
 #include <omp.h>
 #include <arm_neon.h>
 
-#define FLOAT_RAND_MAX 10000
+#define INT_RAND_MAX 10000
 #define MATRIX_SIZE_M 1000
 #define MATRIX_SIZE_N 1000
 #define MATRIX_SIZE_P 1000
@@ -28,7 +28,7 @@ typedef struct intMatrix{
   int16_t * data;
   long nrows;
   long ncols;
-} double_matrix;
+} intMatrix;
 
 void generateMatrix(struct intMatrix* mat);
 void printMatrix(struct intMatrix* mat);
@@ -53,7 +53,7 @@ int main(int argc, char const *argv[])
     printf("Incompatible matrix sizes %ldx%ld and %ldx%ld", m,n,p,q);
     return -1;
   } 
-  // Allocate memmory for the Matrix
+  // Allocate memory for the Matrix
   struct intMatrix A;
   struct intMatrix B;
   struct intMatrix C;
@@ -131,7 +131,7 @@ void generateMatrix(struct intMatrix* matrix){
   #endif
   for(i=0; i < matrix->nrows; i++){
     for(j=0; j < matrix->ncols; j++){
-      matrix->data[i*matrix->nrows+j] = (int16_t)ceil(((double)rand()/(double)(RAND_MAX)) * FLOAT_RAND_MAX);
+      matrix->data[i*matrix->nrows+j] = (int16_t)ceil(((double)rand()/(double)(RAND_MAX)) * INT_RAND_MAX);
     }
   }
 }
