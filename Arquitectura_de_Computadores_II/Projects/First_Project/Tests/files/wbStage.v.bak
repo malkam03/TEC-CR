@@ -1,0 +1,9 @@
+module wbStage(
+	input [1:0] flagsWB,
+	input [31:0] mem_data,
+	input [31:0] direction,
+	input [4:0] rd,
+	output [31:0] data_out
+);
+
+endmodule

@@ -1,0 +1,20 @@
+Fitter Status : Successful - Wed Apr 18 22:26:46 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : HPSFPGA
+Top-level Entity Name : HPSFPGA
+Family : Cyclone V
+Device : 5CSEMA5F31C6
+Timing Models : Final
+Logic utilization (in ALMs) : 277 / 32,070 ( < 1 % )
+Total registers : 535
+Total pins : 118 / 457 ( 26 % )
+Total virtual pins : 0
+Total block memory bits : 2,097,152 / 4,065,280 ( 52 % )
+Total RAM Blocks : 256 / 397 ( 64 % )
+Total DSP Blocks : 0 / 87 ( 0 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0 / 6 ( 0 % )
+Total DLLs : 1 / 4 ( 25 % )

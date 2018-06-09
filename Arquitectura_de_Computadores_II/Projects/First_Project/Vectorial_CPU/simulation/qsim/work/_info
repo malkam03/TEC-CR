@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/FPGA_ArquiII/Proyecto 1/simulation/qsim
+vProyecto1_ProcesadorVectorial
+!s110 1523460758
+!i10b 1
+!s100 [glb`>_dAWc:lXVKnAQNW0
+I7kN9A5>YJ[;ngk0NVN6Sg2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1523460753
+8Proyecto1_ProcesadorVectorial.vo
+FProyecto1_ProcesadorVectorial.vo
+L0 32
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1523460755.000000
+!s107 Proyecto1_ProcesadorVectorial.vo|
+!s90 -work|work|Proyecto1_ProcesadorVectorial.vo|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@proyecto1_@procesador@vectorial
+vProyecto1_ProcesadorVectorial_vlg_vec_tst
+!s110 1523460759
+!i10b 1
+!s100 91OZMHDR:LW7EcM585[:c0
+Ina:CKoW[SACd9@[Ahe;8E3
+R1
+R0
+w1523460748
+8Waveform2.vwf.vt
+FWaveform2.vwf.vt
+L0 30
+R2
+r1
+!s85 0
+31
+!s108 1523460758.000000
+!s107 Waveform2.vwf.vt|
+!s90 -work|work|Waveform2.vwf.vt|
+!i113 1
+R3
+R4
+n@proyecto1_@procesador@vectorial_vlg_vec_tst

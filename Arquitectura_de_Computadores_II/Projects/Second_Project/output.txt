@@ -1,0 +1,5 @@
+
+[mpiexec@malkam03-desktop] Sending Ctrl-C to processes as requested
+[mpiexec@malkam03-desktop] Press Ctrl-C again to force abort
+[mpiexec@malkam03-desktop] Sending Ctrl-C to processes as requested
+[mpiexec@malkam03-desktop] Press Ctrl-C again to force abort

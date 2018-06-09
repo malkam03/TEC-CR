@@ -1,0 +1,2762 @@
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1 	 GPU time = 0.000087s 	 CPU time = 0.000001s
+Using 1 1 0.000087 0.000001
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000148s 	 CPU time = 0.014378s
+Using 1 500001 0.000148 0.014378
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000239s 	 CPU time = 0.036813s
+Using 1 1000001 0.000239 0.036813
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000365s 	 CPU time = 0.045689s
+Using 1 1500001 0.000365 0.045689
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000404s 	 CPU time = 0.054800s
+Using 1 2000001 0.000404 0.054800
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000304s 	 CPU time = 0.057252s
+Using 1 2500001 0.000304 0.057252
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000537s 	 CPU time = 0.067384s
+Using 1 3000001 0.000537 0.067384
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000494s 	 CPU time = 0.074884s
+Using 1 3500001 0.000494 0.074884
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000490s 	 CPU time = 0.089553s
+Using 1 4000001 0.000490 0.089553
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000556s 	 CPU time = 0.085730s
+Using 1 4500001 0.000556 0.085730
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000623s 	 CPU time = 0.084948s
+Using 1 5000001 0.000623 0.084948
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000624s 	 CPU time = 0.094178s
+Using 1 5500001 0.000624 0.094178
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000964s 	 CPU time = 0.094937s
+Using 1 6000001 0.000964 0.094937
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000566s 	 CPU time = 0.097604s
+Using 1 6500001 0.000566 0.097604
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000826s 	 CPU time = 0.105789s
+Using 1 7000001 0.000826 0.105789
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000631s 	 CPU time = 0.112629s
+Using 1 7500001 0.000631 0.112629
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000580s 	 CPU time = 0.116441s
+Using 1 8000001 0.000580 0.116441
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000510s 	 CPU time = 0.126129s
+Using 1 8500001 0.000510 0.126129
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000542s 	 CPU time = 0.125479s
+Using 1 9000001 0.000542 0.125479
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000578s 	 CPU time = 0.124520s
+Using 1 9500001 0.000578 0.124520
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000139s 	 CPU time = 0.005243s
+Using 51 500001 0.000139 0.005243
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000147s 	 CPU time = 0.010355s
+Using 51 1000001 0.000147 0.010355
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000184s 	 CPU time = 0.012539s
+Using 51 1500001 0.000184 0.012539
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000157s 	 CPU time = 0.020184s
+Using 51 2000001 0.000157 0.020184
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000146s 	 CPU time = 0.028312s
+Using 51 2500001 0.000146 0.028312
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000186s 	 CPU time = 0.024624s
+Using 51 3000001 0.000186 0.024624
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000173s 	 CPU time = 0.028738s
+Using 51 3500001 0.000173 0.028738
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000192s 	 CPU time = 0.033939s
+Using 51 4000001 0.000192 0.033939
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000218s 	 CPU time = 0.036231s
+Using 51 4500001 0.000218 0.036231
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000148s 	 CPU time = 0.040376s
+Using 51 5000001 0.000148 0.040376
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000185s 	 CPU time = 0.044817s
+Using 51 5500001 0.000185 0.044817
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000178s 	 CPU time = 0.047012s
+Using 51 6000001 0.000178 0.047012
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000182s 	 CPU time = 0.052076s
+Using 51 6500001 0.000182 0.052076
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000206s 	 CPU time = 0.055229s
+Using 51 7000001 0.000206 0.055229
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000221s 	 CPU time = 0.059250s
+Using 51 7500001 0.000221 0.059250
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000176s 	 CPU time = 0.063958s
+Using 51 8000001 0.000176 0.063958
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000158s 	 CPU time = 0.068542s
+Using 51 8500001 0.000158 0.068542
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000162s 	 CPU time = 0.074444s
+Using 51 9000001 0.000162 0.074444
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000175s 	 CPU time = 0.074566s
+Using 51 9500001 0.000175 0.074566
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000141s 	 CPU time = 0.005420s
+Using 101 500001 0.000141 0.005420
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000147s 	 CPU time = 0.010618s
+Using 101 1000001 0.000147 0.010618
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000155s 	 CPU time = 0.014836s
+Using 101 1500001 0.000155 0.014836
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000157s 	 CPU time = 0.023270s
+Using 101 2000001 0.000157 0.023270
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000164s 	 CPU time = 0.029069s
+Using 101 2500001 0.000164 0.029069
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000162s 	 CPU time = 0.031494s
+Using 101 3000001 0.000162 0.031494
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000165s 	 CPU time = 0.027508s
+Using 101 3500001 0.000165 0.027508
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000196s 	 CPU time = 0.031119s
+Using 101 4000001 0.000196 0.031119
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000146s 	 CPU time = 0.034975s
+Using 101 4500001 0.000146 0.034975
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000143s 	 CPU time = 0.038123s
+Using 101 5000001 0.000143 0.038123
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000176s 	 CPU time = 0.041707s
+Using 101 5500001 0.000176 0.041707
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000168s 	 CPU time = 0.044850s
+Using 101 6000001 0.000168 0.044850
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000174s 	 CPU time = 0.049278s
+Using 101 6500001 0.000174 0.049278
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000175s 	 CPU time = 0.054070s
+Using 101 7000001 0.000175 0.054070
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000172s 	 CPU time = 0.055657s
+Using 101 7500001 0.000172 0.055657
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000161s 	 CPU time = 0.060695s
+Using 101 8000001 0.000161 0.060695
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000161s 	 CPU time = 0.064118s
+Using 101 8500001 0.000161 0.064118
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000160s 	 CPU time = 0.068450s
+Using 101 9000001 0.000160 0.068450
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000174s 	 CPU time = 0.072978s
+Using 101 9500001 0.000174 0.072978
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000138s 	 CPU time = 0.006088s
+Using 151 500001 0.000138 0.006088
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000153s 	 CPU time = 0.010714s
+Using 151 1000001 0.000153 0.010714
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000203s 	 CPU time = 0.011633s
+Using 151 1500001 0.000203 0.011633
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000144s 	 CPU time = 0.021638s
+Using 151 2000001 0.000144 0.021638
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000145s 	 CPU time = 0.025177s
+Using 151 2500001 0.000145 0.025177
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000162s 	 CPU time = 0.023158s
+Using 151 3000001 0.000162 0.023158
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000166s 	 CPU time = 0.026370s
+Using 151 3500001 0.000166 0.026370
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000172s 	 CPU time = 0.030191s
+Using 151 4000001 0.000172 0.030191
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000172s 	 CPU time = 0.033706s
+Using 151 4500001 0.000172 0.033706
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000172s 	 CPU time = 0.054591s
+Using 151 5000001 0.000172 0.054591
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000189s 	 CPU time = 0.042244s
+Using 151 5500001 0.000189 0.042244
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000180s 	 CPU time = 0.046848s
+Using 151 6000001 0.000180 0.046848
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000173s 	 CPU time = 0.049997s
+Using 151 6500001 0.000173 0.049997
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000177s 	 CPU time = 0.051802s
+Using 151 7000001 0.000177 0.051802
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000179s 	 CPU time = 0.056952s
+Using 151 7500001 0.000179 0.056952
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000180s 	 CPU time = 0.076909s
+Using 151 8000001 0.000180 0.076909
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000213s 	 CPU time = 0.071119s
+Using 151 8500001 0.000213 0.071119
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000176s 	 CPU time = 0.067793s
+Using 151 9000001 0.000176 0.067793
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000188s 	 CPU time = 0.070433s
+Using 151 9500001 0.000188 0.070433
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000129s 	 CPU time = 0.006900s
+Using 201 500001 0.000129 0.006900
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000144s 	 CPU time = 0.013211s
+Using 201 1000001 0.000144 0.013211
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000157s 	 CPU time = 0.016736s
+Using 201 1500001 0.000157 0.016736
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000150s 	 CPU time = 0.023761s
+Using 201 2000001 0.000150 0.023761
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000155s 	 CPU time = 0.024801s
+Using 201 2500001 0.000155 0.024801
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000154s 	 CPU time = 0.031166s
+Using 201 3000001 0.000154 0.031166
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000157s 	 CPU time = 0.040119s
+Using 201 3500001 0.000157 0.040119
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000157s 	 CPU time = 0.041221s
+Using 201 4000001 0.000157 0.041221
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000201s 	 CPU time = 0.033987s
+Using 201 4500001 0.000201 0.033987
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000172s 	 CPU time = 0.037762s
+Using 201 5000001 0.000172 0.037762
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000173s 	 CPU time = 0.041464s
+Using 201 5500001 0.000173 0.041464
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000152s 	 CPU time = 0.061770s
+Using 201 6000001 0.000152 0.061770
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000174s 	 CPU time = 0.049589s
+Using 201 6500001 0.000174 0.049589
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000204s 	 CPU time = 0.059110s
+Using 201 7000001 0.000204 0.059110
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000180s 	 CPU time = 0.056969s
+Using 201 7500001 0.000180 0.056969
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000163s 	 CPU time = 0.059873s
+Using 201 8000001 0.000163 0.059873
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000174s 	 CPU time = 0.063997s
+Using 201 8500001 0.000174 0.063997
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000167s 	 CPU time = 0.067800s
+Using 201 9000001 0.000167 0.067800
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000151s 	 CPU time = 0.071066s
+Using 201 9500001 0.000151 0.071066
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000138s 	 CPU time = 0.006676s
+Using 251 500001 0.000138 0.006676
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000134s 	 CPU time = 0.012262s
+Using 251 1000001 0.000134 0.012262
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000141s 	 CPU time = 0.018457s
+Using 251 1500001 0.000141 0.018457
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000129s 	 CPU time = 0.020163s
+Using 251 2000001 0.000129 0.020163
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000193s 	 CPU time = 0.019662s
+Using 251 2500001 0.000193 0.019662
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000144s 	 CPU time = 0.033906s
+Using 251 3000001 0.000144 0.033906
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000178s 	 CPU time = 0.027313s
+Using 251 3500001 0.000178 0.027313
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000195s 	 CPU time = 0.029499s
+Using 251 4000001 0.000195 0.029499
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000218s 	 CPU time = 0.035266s
+Using 251 4500001 0.000218 0.035266
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000173s 	 CPU time = 0.038277s
+Using 251 5000001 0.000173 0.038277
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000189s 	 CPU time = 0.041360s
+Using 251 5500001 0.000189 0.041360
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000199s 	 CPU time = 0.050380s
+Using 251 6000001 0.000199 0.050380
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000213s 	 CPU time = 0.049378s
+Using 251 6500001 0.000213 0.049378
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000164s 	 CPU time = 0.053652s
+Using 251 7000001 0.000164 0.053652
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000155s 	 CPU time = 0.074281s
+Using 251 7500001 0.000155 0.074281
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000158s 	 CPU time = 0.060299s
+Using 251 8000001 0.000158 0.060299
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000159s 	 CPU time = 0.063869s
+Using 251 8500001 0.000159 0.063869
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000169s 	 CPU time = 0.069121s
+Using 251 9000001 0.000169 0.069121
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000230s 	 CPU time = 0.072342s
+Using 251 9500001 0.000230 0.072342
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000140s 	 CPU time = 0.006475s
+Using 301 500001 0.000140 0.006475
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000138s 	 CPU time = 0.010460s
+Using 301 1000001 0.000138 0.010460
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000154s 	 CPU time = 0.014664s
+Using 301 1500001 0.000154 0.014664
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000147s 	 CPU time = 0.021438s
+Using 301 2000001 0.000147 0.021438
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000163s 	 CPU time = 0.023762s
+Using 301 2500001 0.000163 0.023762
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000180s 	 CPU time = 0.023564s
+Using 301 3000001 0.000180 0.023564
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000158s 	 CPU time = 0.039033s
+Using 301 3500001 0.000158 0.039033
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000166s 	 CPU time = 0.042647s
+Using 301 4000001 0.000166 0.042647
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000198s 	 CPU time = 0.038523s
+Using 301 4500001 0.000198 0.038523
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000145s 	 CPU time = 0.038686s
+Using 301 5000001 0.000145 0.038686
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000174s 	 CPU time = 0.041788s
+Using 301 5500001 0.000174 0.041788
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000169s 	 CPU time = 0.067091s
+Using 301 6000001 0.000169 0.067091
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000170s 	 CPU time = 0.064761s
+Using 301 6500001 0.000170 0.064761
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000184s 	 CPU time = 0.052677s
+Using 301 7000001 0.000184 0.052677
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000149s 	 CPU time = 0.073646s
+Using 301 7500001 0.000149 0.073646
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000181s 	 CPU time = 0.060100s
+Using 301 8000001 0.000181 0.060100
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000176s 	 CPU time = 0.063680s
+Using 301 8500001 0.000176 0.063680
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000157s 	 CPU time = 0.068119s
+Using 301 9000001 0.000157 0.068119
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000189s 	 CPU time = 0.072627s
+Using 301 9500001 0.000189 0.072627
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000153s 	 CPU time = 0.005578s
+Using 351 500001 0.000153 0.005578
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000138s 	 CPU time = 0.009489s
+Using 351 1000001 0.000138 0.009489
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000141s 	 CPU time = 0.017580s
+Using 351 1500001 0.000141 0.017580
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000139s 	 CPU time = 0.019894s
+Using 351 2000001 0.000139 0.019894
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000141s 	 CPU time = 0.025166s
+Using 351 2500001 0.000141 0.025166
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000168s 	 CPU time = 0.034171s
+Using 351 3000001 0.000168 0.034171
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000168s 	 CPU time = 0.039305s
+Using 351 3500001 0.000168 0.039305
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000156s 	 CPU time = 0.041747s
+Using 351 4000001 0.000156 0.041747
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000176s 	 CPU time = 0.033694s
+Using 351 4500001 0.000176 0.033694
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000154s 	 CPU time = 0.039044s
+Using 351 5000001 0.000154 0.039044
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000167s 	 CPU time = 0.041021s
+Using 351 5500001 0.000167 0.041021
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000150s 	 CPU time = 0.065667s
+Using 351 6000001 0.000150 0.065667
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000175s 	 CPU time = 0.049705s
+Using 351 6500001 0.000175 0.049705
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000169s 	 CPU time = 0.054281s
+Using 351 7000001 0.000169 0.054281
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000179s 	 CPU time = 0.056528s
+Using 351 7500001 0.000179 0.056528
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000188s 	 CPU time = 0.066960s
+Using 351 8000001 0.000188 0.066960
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000219s 	 CPU time = 0.063885s
+Using 351 8500001 0.000219 0.063885
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000176s 	 CPU time = 0.068755s
+Using 351 9000001 0.000176 0.068755
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000147s 	 CPU time = 0.071925s
+Using 351 9500001 0.000147 0.071925
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000142s 	 CPU time = 0.005613s
+Using 401 500001 0.000142 0.005613
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000138s 	 CPU time = 0.010130s
+Using 401 1000001 0.000138 0.010130
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000156s 	 CPU time = 0.017404s
+Using 401 1500001 0.000156 0.017404
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000164s 	 CPU time = 0.020316s
+Using 401 2000001 0.000164 0.020316
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000158s 	 CPU time = 0.024565s
+Using 401 2500001 0.000158 0.024565
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000146s 	 CPU time = 0.030631s
+Using 401 3000001 0.000146 0.030631
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000189s 	 CPU time = 0.027561s
+Using 401 3500001 0.000189 0.027561
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000168s 	 CPU time = 0.030319s
+Using 401 4000001 0.000168 0.030319
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000148s 	 CPU time = 0.044897s
+Using 401 4500001 0.000148 0.044897
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000150s 	 CPU time = 0.038888s
+Using 401 5000001 0.000150 0.038888
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000169s 	 CPU time = 0.042772s
+Using 401 5500001 0.000169 0.042772
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000230s 	 CPU time = 0.045352s
+Using 401 6000001 0.000230 0.045352
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000171s 	 CPU time = 0.048908s
+Using 401 6500001 0.000171 0.048908
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000161s 	 CPU time = 0.071169s
+Using 401 7000001 0.000161 0.071169
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000198s 	 CPU time = 0.057504s
+Using 401 7500001 0.000198 0.057504
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000180s 	 CPU time = 0.060472s
+Using 401 8000001 0.000180 0.060472
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000176s 	 CPU time = 0.063716s
+Using 401 8500001 0.000176 0.063716
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000169s 	 CPU time = 0.068631s
+Using 401 9000001 0.000169 0.068631
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000147s 	 CPU time = 0.071960s
+Using 401 9500001 0.000147 0.071960
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000142s 	 CPU time = 0.005454s
+Using 451 500001 0.000142 0.005454
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000149s 	 CPU time = 0.012283s
+Using 451 1000001 0.000149 0.012283
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000154s 	 CPU time = 0.015671s
+Using 451 1500001 0.000154 0.015671
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000176s 	 CPU time = 0.015246s
+Using 451 2000001 0.000176 0.015246
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000138s 	 CPU time = 0.025424s
+Using 451 2500001 0.000138 0.025424
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000184s 	 CPU time = 0.023253s
+Using 451 3000001 0.000184 0.023253
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000157s 	 CPU time = 0.037547s
+Using 451 3500001 0.000157 0.037547
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000183s 	 CPU time = 0.031080s
+Using 451 4000001 0.000183 0.031080
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000206s 	 CPU time = 0.041090s
+Using 451 4500001 0.000206 0.041090
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000173s 	 CPU time = 0.038184s
+Using 451 5000001 0.000173 0.038184
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000162s 	 CPU time = 0.059267s
+Using 451 5500001 0.000162 0.059267
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000181s 	 CPU time = 0.044850s
+Using 451 6000001 0.000181 0.044850
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000197s 	 CPU time = 0.052710s
+Using 451 6500001 0.000197 0.052710
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000188s 	 CPU time = 0.053231s
+Using 451 7000001 0.000188 0.053231
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000172s 	 CPU time = 0.056892s
+Using 451 7500001 0.000172 0.056892
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000158s 	 CPU time = 0.060254s
+Using 451 8000001 0.000158 0.060254
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000172s 	 CPU time = 0.064377s
+Using 451 8500001 0.000172 0.064377
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000181s 	 CPU time = 0.069674s
+Using 451 9000001 0.000181 0.069674
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000185s 	 CPU time = 0.072039s
+Using 451 9500001 0.000185 0.072039
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000137s 	 CPU time = 0.005723s
+Using 501 500001 0.000137 0.005723
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000172s 	 CPU time = 0.010399s
+Using 501 1000001 0.000172 0.010399
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000146s 	 CPU time = 0.015758s
+Using 501 1500001 0.000146 0.015758
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000138s 	 CPU time = 0.022960s
+Using 501 2000001 0.000138 0.022960
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000143s 	 CPU time = 0.028826s
+Using 501 2500001 0.000143 0.028826
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000145s 	 CPU time = 0.028491s
+Using 501 3000001 0.000145 0.028491
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000162s 	 CPU time = 0.036349s
+Using 501 3500001 0.000162 0.036349
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000179s 	 CPU time = 0.035131s
+Using 501 4000001 0.000179 0.035131
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000178s 	 CPU time = 0.034077s
+Using 501 4500001 0.000178 0.034077
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000207s 	 CPU time = 0.042420s
+Using 501 5000001 0.000207 0.042420
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000192s 	 CPU time = 0.041832s
+Using 501 5500001 0.000192 0.041832
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000183s 	 CPU time = 0.044825s
+Using 501 6000001 0.000183 0.044825
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000175s 	 CPU time = 0.048951s
+Using 501 6500001 0.000175 0.048951
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000161s 	 CPU time = 0.074235s
+Using 501 7000001 0.000161 0.074235
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000196s 	 CPU time = 0.057597s
+Using 501 7500001 0.000196 0.057597
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000184s 	 CPU time = 0.061570s
+Using 501 8000001 0.000184 0.061570
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000165s 	 CPU time = 0.063471s
+Using 501 8500001 0.000165 0.063471
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000161s 	 CPU time = 0.066327s
+Using 501 9000001 0.000161 0.066327
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000187s 	 CPU time = 0.072723s
+Using 501 9500001 0.000187 0.072723
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000132s 	 CPU time = 0.006545s
+Using 551 500001 0.000132 0.006545
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000154s 	 CPU time = 0.009985s
+Using 551 1000001 0.000154 0.009985
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000148s 	 CPU time = 0.018371s
+Using 551 1500001 0.000148 0.018371
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000157s 	 CPU time = 0.021777s
+Using 551 2000001 0.000157 0.021777
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000157s 	 CPU time = 0.026446s
+Using 551 2500001 0.000157 0.026446
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000175s 	 CPU time = 0.023769s
+Using 551 3000001 0.000175 0.023769
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000175s 	 CPU time = 0.027321s
+Using 551 3500001 0.000175 0.027321
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000178s 	 CPU time = 0.031221s
+Using 551 4000001 0.000178 0.031221
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000173s 	 CPU time = 0.035611s
+Using 551 4500001 0.000173 0.035611
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000197s 	 CPU time = 0.038763s
+Using 551 5000001 0.000197 0.038763
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000236s 	 CPU time = 0.042417s
+Using 551 5500001 0.000236 0.042417
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000185s 	 CPU time = 0.047028s
+Using 551 6000001 0.000185 0.047028
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000168s 	 CPU time = 0.050118s
+Using 551 6500001 0.000168 0.050118
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000157s 	 CPU time = 0.052716s
+Using 551 7000001 0.000157 0.052716
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000172s 	 CPU time = 0.057512s
+Using 551 7500001 0.000172 0.057512
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000199s 	 CPU time = 0.059661s
+Using 551 8000001 0.000199 0.059661
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000178s 	 CPU time = 0.064418s
+Using 551 8500001 0.000178 0.064418
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000161s 	 CPU time = 0.069614s
+Using 551 9000001 0.000161 0.069614
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000150s 	 CPU time = 0.071550s
+Using 551 9500001 0.000150 0.071550
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000140s 	 CPU time = 0.004860s
+Using 601 500001 0.000140 0.004860
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000146s 	 CPU time = 0.010550s
+Using 601 1000001 0.000146 0.010550
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000236s 	 CPU time = 0.012029s
+Using 601 1500001 0.000236 0.012029
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000150s 	 CPU time = 0.019110s
+Using 601 2000001 0.000150 0.019110
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000161s 	 CPU time = 0.026452s
+Using 601 2500001 0.000161 0.026452
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000174s 	 CPU time = 0.023475s
+Using 601 3000001 0.000174 0.023475
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000156s 	 CPU time = 0.039179s
+Using 601 3500001 0.000156 0.039179
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000180s 	 CPU time = 0.031178s
+Using 601 4000001 0.000180 0.031178
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000147s 	 CPU time = 0.033915s
+Using 601 4500001 0.000147 0.033915
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000171s 	 CPU time = 0.037977s
+Using 601 5000001 0.000171 0.037977
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000175s 	 CPU time = 0.042313s
+Using 601 5500001 0.000175 0.042313
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000161s 	 CPU time = 0.066705s
+Using 601 6000001 0.000161 0.066705
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000181s 	 CPU time = 0.048652s
+Using 601 6500001 0.000181 0.048652
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000176s 	 CPU time = 0.053440s
+Using 601 7000001 0.000176 0.053440
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000191s 	 CPU time = 0.055965s
+Using 601 7500001 0.000191 0.055965
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000180s 	 CPU time = 0.061395s
+Using 601 8000001 0.000180 0.061395
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000174s 	 CPU time = 0.064968s
+Using 601 8500001 0.000174 0.064968
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000158s 	 CPU time = 0.067936s
+Using 601 9000001 0.000158 0.067936
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000158s 	 CPU time = 0.071957s
+Using 601 9500001 0.000158 0.071957
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000146s 	 CPU time = 0.005195s
+Using 651 500001 0.000146 0.005195
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000179s 	 CPU time = 0.008110s
+Using 651 1000001 0.000179 0.008110
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000156s 	 CPU time = 0.016583s
+Using 651 1500001 0.000156 0.016583
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000153s 	 CPU time = 0.019550s
+Using 651 2000001 0.000153 0.019550
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000167s 	 CPU time = 0.027669s
+Using 651 2500001 0.000167 0.027669
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000168s 	 CPU time = 0.023339s
+Using 651 3000001 0.000168 0.023339
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000174s 	 CPU time = 0.027225s
+Using 651 3500001 0.000174 0.027225
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000193s 	 CPU time = 0.031924s
+Using 651 4000001 0.000193 0.031924
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000144s 	 CPU time = 0.034015s
+Using 651 4500001 0.000144 0.034015
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000188s 	 CPU time = 0.037741s
+Using 651 5000001 0.000188 0.037741
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000198s 	 CPU time = 0.046583s
+Using 651 5500001 0.000198 0.046583
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000297s 	 CPU time = 0.045525s
+Using 651 6000001 0.000297 0.045525
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000166s 	 CPU time = 0.049105s
+Using 651 6500001 0.000166 0.049105
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000204s 	 CPU time = 0.052883s
+Using 651 7000001 0.000204 0.052883
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000168s 	 CPU time = 0.056167s
+Using 651 7500001 0.000168 0.056167
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000164s 	 CPU time = 0.060749s
+Using 651 8000001 0.000164 0.060749
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000158s 	 CPU time = 0.064853s
+Using 651 8500001 0.000158 0.064853
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000155s 	 CPU time = 0.067828s
+Using 651 9000001 0.000155 0.067828
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000182s 	 CPU time = 0.072458s
+Using 651 9500001 0.000182 0.072458
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000142s 	 CPU time = 0.005676s
+Using 701 500001 0.000142 0.005676
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000144s 	 CPU time = 0.009871s
+Using 701 1000001 0.000144 0.009871
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000149s 	 CPU time = 0.015721s
+Using 701 1500001 0.000149 0.015721
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000156s 	 CPU time = 0.022321s
+Using 701 2000001 0.000156 0.022321
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000157s 	 CPU time = 0.027939s
+Using 701 2500001 0.000157 0.027939
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000186s 	 CPU time = 0.024029s
+Using 701 3000001 0.000186 0.024029
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000153s 	 CPU time = 0.038214s
+Using 701 3500001 0.000153 0.038214
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000175s 	 CPU time = 0.031087s
+Using 701 4000001 0.000175 0.031087
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000203s 	 CPU time = 0.035136s
+Using 701 4500001 0.000203 0.035136
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000145s 	 CPU time = 0.038438s
+Using 701 5000001 0.000145 0.038438
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000184s 	 CPU time = 0.041857s
+Using 701 5500001 0.000184 0.041857
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000181s 	 CPU time = 0.045497s
+Using 701 6000001 0.000181 0.045497
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000188s 	 CPU time = 0.050232s
+Using 701 6500001 0.000188 0.050232
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000352s 	 CPU time = 0.060724s
+Using 701 7000001 0.000352 0.060724
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000166s 	 CPU time = 0.058559s
+Using 701 7500001 0.000166 0.058559
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000160s 	 CPU time = 0.080205s
+Using 701 8000001 0.000160 0.080205
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000190s 	 CPU time = 0.064876s
+Using 701 8500001 0.000190 0.064876
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000200s 	 CPU time = 0.074764s
+Using 701 9000001 0.000200 0.074764
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000174s 	 CPU time = 0.072029s
+Using 701 9500001 0.000174 0.072029
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000148s 	 CPU time = 0.006255s
+Using 751 500001 0.000148 0.006255
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000151s 	 CPU time = 0.013134s
+Using 751 1000001 0.000151 0.013134
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000246s 	 CPU time = 0.013642s
+Using 751 1500001 0.000246 0.013642
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000144s 	 CPU time = 0.020163s
+Using 751 2000001 0.000144 0.020163
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000139s 	 CPU time = 0.028992s
+Using 751 2500001 0.000139 0.028992
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000140s 	 CPU time = 0.034086s
+Using 751 3000001 0.000140 0.034086
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000174s 	 CPU time = 0.028516s
+Using 751 3500001 0.000174 0.028516
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000153s 	 CPU time = 0.040506s
+Using 751 4000001 0.000153 0.040506
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000155s 	 CPU time = 0.049485s
+Using 751 4500001 0.000155 0.049485
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000225s 	 CPU time = 0.038114s
+Using 751 5000001 0.000225 0.038114
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000187s 	 CPU time = 0.042423s
+Using 751 5500001 0.000187 0.042423
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000172s 	 CPU time = 0.046263s
+Using 751 6000001 0.000172 0.046263
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000184s 	 CPU time = 0.049453s
+Using 751 6500001 0.000184 0.049453
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000180s 	 CPU time = 0.054181s
+Using 751 7000001 0.000180 0.054181
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000174s 	 CPU time = 0.056865s
+Using 751 7500001 0.000174 0.056865
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000185s 	 CPU time = 0.061778s
+Using 751 8000001 0.000185 0.061778
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000161s 	 CPU time = 0.065211s
+Using 751 8500001 0.000161 0.065211
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000179s 	 CPU time = 0.069720s
+Using 751 9000001 0.000179 0.069720
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000172s 	 CPU time = 0.082206s
+Using 751 9500001 0.000172 0.082206
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000175s 	 CPU time = 0.006803s
+Using 801 500001 0.000175 0.006803
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000147s 	 CPU time = 0.010825s
+Using 801 1000001 0.000147 0.010825
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000144s 	 CPU time = 0.016672s
+Using 801 1500001 0.000144 0.016672
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000139s 	 CPU time = 0.018351s
+Using 801 2000001 0.000139 0.018351
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000161s 	 CPU time = 0.026266s
+Using 801 2500001 0.000161 0.026266
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000180s 	 CPU time = 0.024237s
+Using 801 3000001 0.000180 0.024237
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000145s 	 CPU time = 0.037675s
+Using 801 3500001 0.000145 0.037675
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000174s 	 CPU time = 0.030371s
+Using 801 4000001 0.000174 0.030371
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000208s 	 CPU time = 0.039472s
+Using 801 4500001 0.000208 0.039472
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000173s 	 CPU time = 0.051916s
+Using 801 5000001 0.000173 0.051916
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000192s 	 CPU time = 0.042525s
+Using 801 5500001 0.000192 0.042525
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000159s 	 CPU time = 0.059103s
+Using 801 6000001 0.000159 0.059103
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000173s 	 CPU time = 0.049710s
+Using 801 6500001 0.000173 0.049710
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000184s 	 CPU time = 0.053511s
+Using 801 7000001 0.000184 0.053511
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000217s 	 CPU time = 0.058807s
+Using 801 7500001 0.000217 0.058807
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000157s 	 CPU time = 0.061697s
+Using 801 8000001 0.000157 0.061697
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000160s 	 CPU time = 0.065417s
+Using 801 8500001 0.000160 0.065417
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000180s 	 CPU time = 0.069966s
+Using 801 9000001 0.000180 0.069966
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000183s 	 CPU time = 0.073791s
+Using 801 9500001 0.000183 0.073791
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000139s 	 CPU time = 0.004833s
+Using 851 500001 0.000139 0.004833
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000153s 	 CPU time = 0.016101s
+Using 851 1000001 0.000153 0.016101
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000178s 	 CPU time = 0.015611s
+Using 851 1500001 0.000178 0.015611
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000148s 	 CPU time = 0.020915s
+Using 851 2000001 0.000148 0.020915
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000161s 	 CPU time = 0.025251s
+Using 851 2500001 0.000161 0.025251
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000175s 	 CPU time = 0.023879s
+Using 851 3000001 0.000175 0.023879
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000146s 	 CPU time = 0.037972s
+Using 851 3500001 0.000146 0.037972
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000193s 	 CPU time = 0.032086s
+Using 851 4000001 0.000193 0.032086
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000152s 	 CPU time = 0.048772s
+Using 851 4500001 0.000152 0.048772
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000150s 	 CPU time = 0.039521s
+Using 851 5000001 0.000150 0.039521
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000180s 	 CPU time = 0.043366s
+Using 851 5500001 0.000180 0.043366
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000205s 	 CPU time = 0.046171s
+Using 851 6000001 0.000205 0.046171
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000181s 	 CPU time = 0.051761s
+Using 851 6500001 0.000181 0.051761
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000170s 	 CPU time = 0.053440s
+Using 851 7000001 0.000170 0.053440
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000167s 	 CPU time = 0.057634s
+Using 851 7500001 0.000167 0.057634
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000204s 	 CPU time = 0.068420s
+Using 851 8000001 0.000204 0.068420
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000176s 	 CPU time = 0.064785s
+Using 851 8500001 0.000176 0.064785
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000160s 	 CPU time = 0.068280s
+Using 851 9000001 0.000160 0.068280
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000182s 	 CPU time = 0.071823s
+Using 851 9500001 0.000182 0.071823
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000142s 	 CPU time = 0.006092s
+Using 901 500001 0.000142 0.006092
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000136s 	 CPU time = 0.009830s
+Using 901 1000001 0.000136 0.009830
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000184s 	 CPU time = 0.012099s
+Using 901 1500001 0.000184 0.012099
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000182s 	 CPU time = 0.015428s
+Using 901 2000001 0.000182 0.015428
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000161s 	 CPU time = 0.020372s
+Using 901 2500001 0.000161 0.020372
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000203s 	 CPU time = 0.022676s
+Using 901 3000001 0.000203 0.022676
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000169s 	 CPU time = 0.034310s
+Using 901 3500001 0.000169 0.034310
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000181s 	 CPU time = 0.030678s
+Using 901 4000001 0.000181 0.030678
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000178s 	 CPU time = 0.035169s
+Using 901 4500001 0.000178 0.035169
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000218s 	 CPU time = 0.038667s
+Using 901 5000001 0.000218 0.038667
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000177s 	 CPU time = 0.041945s
+Using 901 5500001 0.000177 0.041945
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000179s 	 CPU time = 0.045857s
+Using 901 6000001 0.000179 0.045857
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000184s 	 CPU time = 0.048414s
+Using 901 6500001 0.000184 0.048414
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000175s 	 CPU time = 0.052733s
+Using 901 7000001 0.000175 0.052733
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000172s 	 CPU time = 0.057694s
+Using 901 7500001 0.000172 0.057694
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000189s 	 CPU time = 0.061910s
+Using 901 8000001 0.000189 0.061910
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000162s 	 CPU time = 0.066350s
+Using 901 8500001 0.000162 0.066350
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000187s 	 CPU time = 0.068743s
+Using 901 9000001 0.000187 0.068743
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000188s 	 CPU time = 0.071680s
+Using 901 9500001 0.000188 0.071680
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Cuda failure vecadd.cu:11: 'invalid configuration argument'
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 500001 	 GPU time = 0.000137s 	 CPU time = 0.005112s
+Using 951 500001 0.000137 0.005112
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1000001 	 GPU time = 0.000148s 	 CPU time = 0.012593s
+Using 951 1000001 0.000148 0.012593
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 1500001 	 GPU time = 0.000150s 	 CPU time = 0.015301s
+Using 951 1500001 0.000150 0.015301
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2000001 	 GPU time = 0.000145s 	 CPU time = 0.020864s
+Using 951 2000001 0.000145 0.020864
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 2500001 	 GPU time = 0.000165s 	 CPU time = 0.023657s
+Using 951 2500001 0.000165 0.023657
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3000001 	 GPU time = 0.000174s 	 CPU time = 0.024020s
+Using 951 3000001 0.000174 0.024020
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 3500001 	 GPU time = 0.000181s 	 CPU time = 0.027454s
+Using 951 3500001 0.000181 0.027454
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4000001 	 GPU time = 0.000169s 	 CPU time = 0.041068s
+Using 951 4000001 0.000169 0.041068
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 4500001 	 GPU time = 0.000179s 	 CPU time = 0.035661s
+Using 951 4500001 0.000179 0.035661
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5000001 	 GPU time = 0.000147s 	 CPU time = 0.038905s
+Using 951 5000001 0.000147 0.038905
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 5500001 	 GPU time = 0.000175s 	 CPU time = 0.042319s
+Using 951 5500001 0.000175 0.042319
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6000001 	 GPU time = 0.000245s 	 CPU time = 0.051947s
+Using 951 6000001 0.000245 0.051947
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 6500001 	 GPU time = 0.000183s 	 CPU time = 0.049128s
+Using 951 6500001 0.000183 0.049128
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7000001 	 GPU time = 0.000171s 	 CPU time = 0.053206s
+Using 951 7000001 0.000171 0.053206
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 7500001 	 GPU time = 0.000170s 	 CPU time = 0.057052s
+Using 951 7500001 0.000170 0.057052
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8000001 	 GPU time = 0.000165s 	 CPU time = 0.061988s
+Using 951 8000001 0.000165 0.061988
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 8500001 	 GPU time = 0.000178s 	 CPU time = 0.066013s
+Using 951 8500001 0.000178 0.066013
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9000001 	 GPU time = 0.000174s 	 CPU time = 0.069205s
+Using 951 9000001 0.000174 0.069205
+Begin 
+Allocating device memory on host..
+Copying to device..
+Doing GPU Vector add
+Doing CPU Vector add
+n = 9500001 	 GPU time = 0.000208s 	 CPU time = 0.077406s
+Using 951 9500001 0.000208 0.077406

@@ -1,0 +1,188 @@
+Determining the location of the ModelSim executable...
+
+Using: C:\intelFPGA_lite\16.1\modelsim_ase\win32aloem
+
+To specify a ModelSim executable directory, select: Tools -> Options -> EDA Tool Options
+Note: if both ModelSim-Altera and ModelSim executables are available, ModelSim-Altera will be used.
+
+**** Generating the ModelSim Testbench ****
+
+quartus_eda --gen_testbench --tool=modelsim_oem --format=verilog --write_settings_files=off Proyecto1_ProcesadorVectorial -c Proyecto1_ProcesadorVectorial --vector_source="D:/FPGA_ArquiII/Proyecto 1/Waveform2.vwf" --testbench_file="D:/FPGA_ArquiII/Proyecto 1/simulation/qsim/Waveform2.vwf.vt"
+
+Info: *******************************************************************
+Info: Running Quartus Prime EDA Netlist Writer
+    Info: Version 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+    Info: Copyright (C) 2016  Intel Corporation. All rights reserved.
+    Info: Your use of Intel Corporation's design tools, logic functions 
+    Info: and other software and tools, and its AMPP partner logic 
+    Info: functions, and any output files from any of the foregoing 
+    Info: (including device programming or simulation files), and any 
+    Info: associated documentation or information are expressly subject 
+    Info: to the terms and conditions of the Intel Program License 
+    Info: Subscription Agreement, the Intel Quartus Prime License Agreement,
+    Info: the Intel MegaCore Function License Agreement, or other 
+    Info: applicable license agreement, including, without limitation, 
+    Info: that your use is for the sole purpose of programming logic 
+    Info: devices manufactured by Intel and sold by Intel or its 
+    Info: authorized distributors.  Please refer to the applicable 
+    Info: agreement for further details.
+    Info: Processing started: Wed Apr 11 09:32:25 2018
+Info: Command: quartus_eda --gen_testbench --tool=modelsim_oem --format=verilog --write_settings_files=off Proyecto1_ProcesadorVectorial -c Proyecto1_ProcesadorVectorial --vector_source="D:/FPGA_ArquiII/Proyecto 1/Waveform2.vwf" --testbench_file="D:/FPGA_ArquiII/Proyecto 1/simulation/qsim/Waveform2.vwf.vt"
+Info (119006): Selected device 5CSEMA5F31C6 for design "Proyecto1_ProcesadorVectorial"
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+
+put pin "prueba[10]" in vector source file when writing test bench files
+
+Completed successfully. 
+
+Completed successfully. 
+
+**** Generating the functional simulation netlist ****
+
+quartus_eda --write_settings_files=off --simulation --functional=on --flatten_buses=off --tool=modelsim_oem --format=verilog --output_directory="D:/FPGA_ArquiII/Proyecto 1/simulation/qsim/" Proyecto1_ProcesadorVectorial -c Proyecto1_ProcesadorVectorial
+
+Info: *******************************************************************
+Info: Running Quartus Prime EDA Netlist Writer
+    Info: Version 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+    Info: Copyright (C) 2016  Intel Corporation. All rights reserved.
+    Info: Your use of Intel Corporation's design tools, logic functions 
+    Info: and other software and tools, and its AMPP partner logic 
+    Info: functions, and any output files from any of the foregoing 
+    Info: (including device programming or simulation files), and any 
+    Info: associated documentation or information are expressly subject 
+    Info: to the terms and conditions of the Intel Program License 
+    Info: Subscription Agreement, the Intel Quartus Prime License Agreement,
+    Info: the Intel MegaCore Function License Agreement, or other 
+    Info: applicable license agreement, including, without limitation, 
+    Info: that your use is for the sole purpose of programming logic 
+    Info: devices manufactured by Intel and sold by Intel or its 
+    Info: authorized distributors.  Please refer to the applicable 
+    Info: agreement for further details.
+    Info: Processing started: Wed Apr 11 09:32:29 2018
+Info: Command: quartus_eda --write_settings_files=off --simulation=on --functional=on --flatten_buses=off --tool=modelsim_oem --format=verilog --output_directory="D:/FPGA_ArquiII/Proyecto 1/simulation/qsim/" Proyecto1_ProcesadorVectorial -c Proyecto1_ProcesadorVectorial
+Info (119006): Selected device 5CSEMA5F31C6 for design "Proyecto1_ProcesadorVectorial"
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+Info (204019): Generated file Proyecto1_ProcesadorVectorial.vo in folder "D:/FPGA_ArquiII/Proyecto 1/simulation/qsim//" for EDA simulation tool
+Info: Quartus Prime EDA Netlist Writer was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 659 megabytes
+    Info: Processing ended: Wed Apr 11 09:32:33 2018
+    Info: Elapsed time: 00:00:04
+    Info: Total CPU time (on all processors): 00:00:04
+
+Completed successfully. 
+
+**** Generating the ModelSim .do script ****
+
+D:/FPGA_ArquiII/Proyecto 1/simulation/qsim/Proyecto1_ProcesadorVectorial.do generated.
+
+Completed successfully. 
+
+**** Running the ModelSim simulation ****
+
+C:/intelFPGA_lite/16.1/modelsim_ase/win32aloem/vsim -c -do Proyecto1_ProcesadorVectorial.do
+
+Reading C:/intelFPGA_lite/16.1/modelsim_ase/tcl/vsim/pref.tcl
+
+# 10.5b
+
+
+# do Proyecto1_ProcesadorVectorial.do
+
+# ** Warning: (vlib-34) Library already exists at "work".
+
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:32:35 on Apr 11,2018
+# vlog -work work Proyecto1_ProcesadorVectorial.vo 
+# -- Compiling module Proyecto1_ProcesadorVectorial
+
+# 
+# Top level modules:
+# 	Proyecto1_ProcesadorVectorial
+
+# End time: 09:32:38 on Apr 11,2018, Elapsed time: 0:00:03
+# Errors: 0, Warnings: 0
+
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:32:38 on Apr 11,2018
+# vlog -work work Waveform2.vwf.vt 
+
+# -- Compiling module Proyecto1_ProcesadorVectorial_vlg_vec_tst
+# 
+# Top level modules:
+# 	Proyecto1_ProcesadorVectorial_vlg_vec_tst
+# End time: 09:32:39 on Apr 11,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+
+# vsim -novopt -c -t 1ps -L cyclonev_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver work.Proyecto1_ProcesadorVectorial_vlg_vec_tst 
+# Start time: 09:32:40 on Apr 11,2018
+# Loading work.Proyecto1_ProcesadorVectorial_vlg_vec_tst
+# Loading work.Proyecto1_ProcesadorVectorial
+# Loading sv_std.std
+# Loading altera_lnsim_ver.generic_m10k
+# Loading altera_lnsim_ver.altera_lnsim_functions
+# Loading altera_lnsim_ver.common_28nm_ram_block
+# Loading altera_lnsim_ver.common_28nm_ram_register
+# Loading altera_lnsim_ver.common_28nm_ram_pulse_generator
+# Loading altera_ver.dffeas
+# Loading altera_ver.PRIM_GDFF_LOW
+# ** Warning: Design size of 27813 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+
+# after#25
+
+# Simulation time: 0 ps
+
+# Simulation time: 0 ps
+
+# Simulation time: 0 ps
+
+# Simulation time: 0 ps
+
+# Simulation time: 0 ps
+
+# Simulation time: 0 ps
+
+# Simulation time: 0 ps
+
+# Simulation time: 0 ps
+
+# Simulation time: 0 ps
+
+# Simulation time: 0 ps
+
+# Simulation time: 0 ps
+
+# Simulation time: 0 ps
+
+# Simulation time: 0 ps
+
+# Simulation time: 0 ps
+
+# Simulation time: 0 ps
+
+# Simulation time: 0 ps
+
+# Simulation time: 950000 ps
+
+# ** Note: $finish    : Waveform2.vwf.vt(49)
+#    Time: 1800 ns  Iteration: 0  Instance: /Proyecto1_ProcesadorVectorial_vlg_vec_tst
+# End time: 09:33:28 on Apr 11,2018, Elapsed time: 0:00:48
+# Errors: 0, Warnings: 1
+
+Completed successfully. 
+
+**** Converting ModelSim VCD to vector waveform ****
+
+Reading D:/FPGA_ArquiII/Proyecto 1/Waveform2.vwf...
+
+Reading D:/FPGA_ArquiII/Proyecto 1/simulation/qsim/Proyecto1_ProcesadorVectorial.msim.vcd...
+
+Processing channel transitions... 
+
+Writing the resulting VWF to D:/FPGA_ArquiII/Proyecto 1/simulation/qsim/Proyecto1_ProcesadorVectorial_20180411093328.sim.vwf
+
+Finished VCD to VWF conversion.
+
+Completed successfully. 
+
+All completed.
