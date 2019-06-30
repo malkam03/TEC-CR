@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libse_math.so -o libse_math.so CMakeFiles/se_math.dir/libse_math.c.o 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/se_math.h
+
+/home/malkam03/Documents/TEC-CR/Sistemas_Embebidos/Workshops/T5/src/simple_calculator.c
+se_math.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

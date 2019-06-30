@@ -1,0 +1,3 @@
+/home/malkam03/Documents/TEC-CR/Sistemas_Embebidos/Workshops/T5/build/usr/bin/simple_calculator
+/home/malkam03/Documents/TEC-CR/Sistemas_Embebidos/Workshops/T5/build/usr/lib/libse_math.so
+/home/malkam03/Documents/TEC-CR/Sistemas_Embebidos/Workshops/T5/build/usr/include/se_math.h

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/../include/se_math.h
+
+/home/malkam03/Documents/TEC-CR/Sistemas_Embebidos/Workshops/T5/lib/libse_math.c
+se_math.h
+-
+math.h
+-
+
