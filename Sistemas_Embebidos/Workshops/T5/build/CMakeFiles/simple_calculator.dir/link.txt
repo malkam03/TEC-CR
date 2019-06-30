@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/simple_calculator.dir/src/simple_calculator.c.o  -o simple_calculator -Wl,-rpath,/home/malkam03/Documents/TEC-CR/Sistemas_Embebidos/Workshops/T5/build/lib: lib/libse_math.so -lm 
